@@ -1,0 +1,17 @@
+{
+    "name": "nicol/iledefrance-mobilites",
+    "autoload": {
+        "psr-4": {
+            "Nicol\\IledefranceMobilites\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nicolas-frnc",
+            "email": "174860069+Nicolas-frnc@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}

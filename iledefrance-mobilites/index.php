@@ -1,20 +1,59 @@
-<?php
-require 'vendor/autoload.php';
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vélib IDF</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="index.js" defer></script>
+</head>
+<body>
+<div class="header">
+    <div class="logo">
+        <img src="./img/logo_idfm.svg" alt="logo">
+    </div>
+    <div class="menu">
+        <a class="link-head">Recherche ID station</a>
+    </div>
+</div>
 
-use GuzzleHttp\Client;
-use GuzzleHttp\Exception\GuzzleException;
+<div class="banner">
+    <div class="txt">
+        <h3>Diffusion des données de disponibilité temps réel - Vélos et bornes - Vélib</h3>
+        <p>Site de diffusion des données en temps réel du nombre de vélos mécaniques et électriques disponibles <br>à chaque station ainsi que le nombre de bornettes libres dans les stations Vélib' Métropole.</p>
+    </div>
+</div>
 
-$client = new Client();
+<div class="stations-container">
+    <?php
+    require 'vendor/autoload.php';
+    use GuzzleHttp\Client;
 
-try {
-    $response = $client->request('GET', 'https://jsonplaceholder.typicode.com/todos');
+    $client = new Client();
 
-    $statusCode = $response->getStatusCode();
-    $body = $response->getBody()->getContents();
+    try {
+        $response = $client->request('GET', 'https://velib-metropole-opendata.smovengo.cloud/opendata/Velib_Metropole/station_status.json');
+        $body = json_decode($response->getBody(), true);
 
-    echo "Status Code: " . $statusCode . PHP_EOL;
-    echo "Body: " . $body . PHP_EOL;
-} catch (GuzzleException $e) {
-    echo "Error: " . $e->getMessage() . PHP_EOL;
-}
-?>
+        foreach ($body['data']['stations'] as $station) {
+            echo '<div class="station-card">';
+            echo '<div class="station-icon">';
+            echo '<img src="./img/bikes_and_new_mobility 1.svg">';
+            echo '</div>';
+            echo '<div class="station-info">';
+            echo '<h2>Station ID: ' . ($station["station_id"]) . '</h2>';
+            echo '<p>Vélos disponibles: ' . ($station["num_bikes_available"]) . '</p>';
+            echo '<p>Mécaniques: ' . ($station["num_bikes_available_types"][0]["mechanical"] ?? 0) . '</p>';
+            echo '<p>Emplacements libres: ' . ($station["num_docks_available"]) . '</p>';
+            echo  '<p> ⚠️ Des incohérences peuvent survenir car certains vélos sont en maintenance.</p>';
+            echo '</div>';
+            echo '</div>';
+        }
+    } catch (GuzzleException $e) {
+        echo "<p class='error'>Erreur: " . $e->getMessage() . "</p>";
+    }
+    ?>
+</div>
+
+</body>
+</html>

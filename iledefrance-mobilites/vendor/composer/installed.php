@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'nicol/iledefrance-mobilites',
-        'pretty_version' => 'dev-main',
-        'version' => 'dev-main',
-        'reference' => 'e463d34e48afe8ed9f4082406a30d0c0db706c98',
+        'pretty_version' => '1.0.0+no-version-set',
+        'version' => '1.0.0.0',
+        'reference' => null,
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -38,9 +38,9 @@
             'dev_requirement' => false,
         ),
         'nicol/iledefrance-mobilites' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
-            'reference' => 'e463d34e48afe8ed9f4082406a30d0c0db706c98',
+            'pretty_version' => '1.0.0+no-version-set',
+            'version' => '1.0.0.0',
+            'reference' => null,
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

@@ -1,3 +1,6 @@
+https://youtu.be/AVP-mu6lv4Q
+video
+
 ### calcule_moyenne.php
 
 https://www.php.net/manual/en/language.operators.arithmetic.php

@@ -25,23 +25,23 @@
 </div>
 
 <div class="stations-container">
-    <?php
+    <?php // ouverture de la balise PHP
     require 'vendor/autoload.php';
-    use GuzzleHttp\Client;
+    use GuzzleHttp\Client; // guzzle permet de faire les requete a l'API velib
 
     $client = new Client();
 
     try {
-        $response = $client->request('GET', 'https://velib-metropole-opendata.smovengo.cloud/opendata/Velib_Metropole/station_status.json');
+        $response = $client->request('GET', 'https://velib-metropole-opendata.smovengo.cloud/opendata/Velib_Metropole/station_status.json'); // URL de l'API
         $body = json_decode($response->getBody(), true);
 
-        foreach ($body['data']['stations'] as $station) {
+        foreach ($body['data']['stations'] as $station) { // Parcours des stations
             echo '<div class="station-card">';
             echo '<div class="station-icon">';
             echo '<img src="./img/bikes_and_new_mobility 1.svg">';
             echo '</div>';
             echo '<div class="station-info">';
-            echo '<h2>Station ID: ' . ($station["station_id"]) . '</h2>';
+            echo '<h2>Station ID: ' . ($station["station_id"]) . '</h2>'; // recupereID de la station
             echo '<p>Vélos disponibles: ' . ($station["num_bikes_available"]) . '</p>';
             echo '<p>Mécaniques: ' . ($station["num_bikes_available_types"][0]["mechanical"] ?? 0) . '</p>';
             echo '<p>Emplacements libres: ' . ($station["num_docks_available"]) . '</p>';
@@ -49,8 +49,8 @@
             echo '</div>';
             echo '</div>';
         }
-    } catch (GuzzleException $e) {
-        echo "<p class='error'>Erreur: " . $e->getMessage() . "</p>";
+    } catch (GuzzleException $e) { // debug donné par chatgpt
+        echo "<p class='error'>Erreur: " . $e->getMessage() . "</p>"; // gestion des erreurs (vu en cours
     }
     ?>
 </div>

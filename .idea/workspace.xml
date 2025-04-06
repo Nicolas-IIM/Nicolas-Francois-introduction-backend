@@ -4,351 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="980f2c29-b2d6-437b-a3cb-d23dbd411e37" name="Changes" comment="Add functions to calculate and display average">
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/img/bikes_and_new_mobility 1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/img/logo_idfm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/img/logo_idfm.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/old/info.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/old/init.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/autoload.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/composer/ClassLoader.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/composer/InstalledVersions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/composer/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/composer/autoload_files.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/composer/autoload_namespaces.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/composer/autoload_real.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/composer/autoload_static.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/composer/installed.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/composer/installed.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/composer/platform_check.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/.github/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/.github/FUNDING.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/.github/ISSUE_TEMPLATE/bug_report.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/.github/ISSUE_TEMPLATE/config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/.github/ISSUE_TEMPLATE/feature_request.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/.github/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/.github/stale.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/.github/workflows/checks.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/.github/workflows/ci.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/.github/workflows/static.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/.php-cs-fixer.dist.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/UPGRADING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/docs/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/docs/_static/guzzle-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/docs/_static/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/docs/conf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/docs/faq.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/docs/handlers-and-middleware.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/docs/index.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/docs/overview.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/docs/psr7.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/docs/quickstart.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/docs/request-options.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/docs/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/docs/testing.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/phpstan-baseline.neon" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/phpstan.neon.dist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/phpunit.xml.dist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/psalm-baseline.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/psalm.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/BodySummarizer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/BodySummarizerInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/Client.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/ClientInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/ClientTrait.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/Cookie/CookieJarInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/Cookie/SetCookie.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/Exception/BadResponseException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/Exception/ClientException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/Exception/ConnectException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/Exception/GuzzleException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/Exception/InvalidArgumentException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/Exception/ServerException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/Exception/TooManyRedirectsException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/Exception/TransferException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/Handler/CurlFactoryInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/Handler/CurlMultiHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/Handler/EasyHandle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/Handler/HeaderProcessor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/Handler/MockHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/HandlerStack.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/MessageFormatter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/MessageFormatterInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/Middleware.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/Pool.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/RequestOptions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/RetryMiddleware.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/TransferStats.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/Utils.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/functions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/src/functions_include.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/ClientTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/Cookie/CookieJarTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/Cookie/FileCookieJarTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/Cookie/SessionCookieJarTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/Cookie/SetCookieTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/Exception/BadResponseExceptionTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/Exception/ConnectExceptionTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/Exception/RequestExceptionTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/Handler/CurlFactoryTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/Handler/CurlHandlerTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/Handler/CurlMultiHandlerTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/Handler/EasyHandleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/Handler/MockHandlerTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/Handler/Network/StreamHandlerTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/Handler/ProxyTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/Handler/StreamHandlerTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/HandlerStackTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/Helpers.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/HttplugIntegrationTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/InternalUtilsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/MessageFormatterTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/MiddlewareTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/PoolTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/PrepareBodyMiddlewareTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/RedirectMiddlewareTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/RetryMiddlewareTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/Server.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/TestLogger.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/TransferStatsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/UtilsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/bootstrap-phpstan.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/bootstrap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/tests/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/vendor-bin/php-cs-fixer/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/vendor-bin/phpstan/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle/vendor-bin/psalm/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/.github/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/.github/FUNDING.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/.github/stale.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/.github/workflows/checks.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/.github/workflows/ci.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/.github/workflows/static.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/.php-cs-fixer.dist.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/phpstan-baseline.neon" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/phpstan.neon.dist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/phpunit.xml.dist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/psalm-baseline.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/psalm.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/src/AggregateException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/src/CancellationException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/src/Coroutine.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/src/Create.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/src/Each.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/src/EachPromise.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/src/FulfilledPromise.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/src/Is.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/src/Promise.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/src/PromiseInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/src/PromisorInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/src/RejectedPromise.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/src/RejectionException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/src/TaskQueue.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/src/TaskQueueInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/src/Utils.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/tests/AggregateExceptionTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/tests/CoroutineTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/tests/CreateTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/tests/EachPromiseTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/tests/EachTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/tests/FulfilledPromiseTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/tests/IsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/tests/NotPromiseInstance.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/tests/PromiseTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/tests/PropertyHelper.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/tests/RejectedPromiseTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/tests/RejectionExceptionTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/tests/TaskQueueTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/tests/Thennable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/tests/Thing1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/tests/Thing2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/tests/UtilsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/vendor-bin/php-cs-fixer/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/vendor-bin/phpstan/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises/vendor-bin/psalm/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/.github/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/.github/FUNDING.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/.github/stale.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/.github/workflows/checks.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/.github/workflows/ci.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/.github/workflows/integration.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/.github/workflows/static.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/.php-cs-fixer.dist.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/phpstan-baseline.neon" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/phpstan.neon.dist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/phpunit.xml.dist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/psalm-baseline.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/psalm.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/AppendStream.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/BufferStream.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/CachingStream.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/DroppingStream.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/Exception/MalformedUriException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/FnStream.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/Header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/HttpFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/InflateStream.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/LazyOpenStream.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/LimitStream.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/Message.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/MessageTrait.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/MimeType.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/MultipartStream.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/NoSeekStream.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/PumpStream.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/Query.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/Request.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/Response.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/Rfc7230.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/ServerRequest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/Stream.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/StreamDecoratorTrait.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/StreamWrapper.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/UploadedFile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/Uri.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/UriComparator.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/UriNormalizer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/UriResolver.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/src/Utils.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/AppendStreamTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/BufferStreamTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/CachingStreamTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/DroppingStreamTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/FnStreamTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/HasToString.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/HeaderTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/InflateStreamTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/Integration/ServerRequestFromGlobalsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/Integration/server.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/LazyOpenStreamTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/LimitStreamTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/MessageTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/MimeTypeTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/MultipartStreamTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/NoSeekStreamTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/PumpStreamTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/QueryTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/ReadSeekOnlyStream.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/RequestTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/ResponseTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/ServerRequestTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/StreamDecoratorTraitTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/StreamTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/StreamWrapperTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/UploadedFileTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/UriComparatorTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/UriNormalizerTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/UriResolverTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/UriTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/tests/UtilsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/vendor-bin/php-cs-fixer/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/vendor-bin/phpstan/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7/vendor-bin/psalm/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-client/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-client/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-client/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-client/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-client/src/ClientExceptionInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-client/src/ClientInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-client/src/NetworkExceptionInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-client/src/RequestExceptionInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-factory/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-factory/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-factory/.pullapprove.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-factory/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-factory/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-factory/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-factory/src/RequestFactoryInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-factory/src/ResponseFactoryInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-factory/src/ServerRequestFactoryInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-factory/src/StreamFactoryInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-factory/src/UploadedFileFactoryInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-factory/src/UriFactoryInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-message/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-message/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-message/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-message/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-message/docs/PSR7-Interfaces.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-message/docs/PSR7-Usage.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-message/src/MessageInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-message/src/RequestInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-message/src/ResponseInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-message/src/ServerRequestInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-message/src/StreamInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-message/src/UploadedFileInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-message/src/UriInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/ralouphie/getallheaders/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/ralouphie/getallheaders/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/ralouphie/getallheaders/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/ralouphie/getallheaders/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/ralouphie/getallheaders/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/ralouphie/getallheaders/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/ralouphie/getallheaders/phpunit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/ralouphie/getallheaders/src/getallheaders.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/ralouphie/getallheaders/tests/GetAllHeadersTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/symfony/deprecation-contracts/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/symfony/deprecation-contracts/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/symfony/deprecation-contracts/.github/workflows/close-pull-request.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/symfony/deprecation-contracts/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/symfony/deprecation-contracts/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/symfony/deprecation-contracts/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/symfony/deprecation-contracts/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/symfony/deprecation-contracts/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/symfony/deprecation-contracts/function.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site_stack/iim_fr.md" afterDir="false" />
+    <list default="true" id="980f2c29-b2d6-437b-a3cb-d23dbd411e37" name="Changes" comment="Refactor calcule_moyenne.php to add comments">
+      <change beforePath="$PROJECT_DIR$/iledefrance-mobilites/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/iledefrance-mobilites/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokemon-api/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/pokemon-api/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ComposerConfigs">
-    <option name="configs">
-      <option value="$PROJECT_DIR$/iledefrance-mobilitesa/composer.json" />
-    </option>
   </component>
   <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/iledefrance-mobilites/composer.json</pharConfigPath>
@@ -363,6 +26,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="main" />
@@ -384,15 +53,6 @@
       <path value="$PROJECT_DIR$/iledefrance-mobilites/vendor/psr/http-message" />
       <path value="$PROJECT_DIR$/iledefrance-mobilites/vendor/composer" />
       <path value="$PROJECT_DIR$/iledefrance-mobilites/vendor/ralouphie/getallheaders" />
-      <path value="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-client" />
-      <path value="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/psr7" />
-      <path value="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/guzzle" />
-      <path value="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/ralouphie/getallheaders" />
-      <path value="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/composer" />
-      <path value="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-message" />
-      <path value="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/guzzlehttp/promises" />
-      <path value="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/psr/http-factory" />
-      <path value="$PROJECT_DIR$/iledefrance-mobilitesa/vendor/symfony/deprecation-contracts" />
     </include_path>
   </component>
   <component name="ProjectColorInfo">{
@@ -450,6 +110,7 @@
       <workItem from="1743848041804" duration="8754000" />
       <workItem from="1743930538584" duration="3881000" />
       <workItem from="1743943135114" duration="435000" />
+      <workItem from="1743944939958" duration="1162000" />
     </task>
     <task id="LOCAL-00001" summary="Ajout de fichiers de configuration et d'un script pour le calcul de la moyenne">
       <option name="closed" value="true" />
@@ -483,7 +144,31 @@
       <option name="project" value="LOCAL" />
       <updated>1743943227155</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add iim_fr.md to document application structure and technologies used">
+      <option name="closed" value="true" />
+      <created>1743945025589</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743945025589</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add initial project files for Pokemon api">
+      <option name="closed" value="true" />
+      <created>1743945125983</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743945125983</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Refactor calcule_moyenne.php to add comments">
+      <option name="closed" value="true" />
+      <created>1743947123393</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1743947123393</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -504,6 +189,9 @@
     <MESSAGE value="Ajout de fichiers de configuration et d'un script pour le calcul de la moyenne" />
     <MESSAGE value="Add functions to calculate and display average" />
     <MESSAGE value="Update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
+    <MESSAGE value="Add iim_fr.md to document application structure and technologies used" />
+    <MESSAGE value="Add initial project files for Pokemon api" />
+    <MESSAGE value="Refactor calcule_moyenne.php to add comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor calcule_moyenne.php to add comments" />
   </component>
 </project>

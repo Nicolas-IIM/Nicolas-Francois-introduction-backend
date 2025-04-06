@@ -14,15 +14,15 @@ document.addEventListener('DOMContentLoaded', () => {
                 const cardDiv = document.getElementById('card_html'); // div ou on va afficher les données
                 cardDiv.innerHTML = `
                     <h2>${content.name}</h2>
-                    <img src="${content.sprites.front_default}"> // image du pokemon
+                    <img src="${content.sprites.front_default}"> 
                     <p>Type: ${content.types.map(type => type.type.name)}</p>
                     <p>Statistiques:</p>
                     <ul>
-                        ${content.stats.map(stat => `<li>${stat.stat.name}: ${stat.base_stat}</li>`).join('')} // stats du pokemon
+                        ${content.stats.map(stat => `<li>${stat.stat.name}: ${stat.base_stat}</li>`).join('')} 
                     </ul>
                     <p>Capacités:</p>
                     <ul>
-                        ${content.abilities.map(ability => `<li>${ability.ability.name}</li>`).join('')} // capacités du pokemon
+                        ${content.abilities.map(ability => `<li>${ability.ability.name}</li>`).join('')} 
                 `;
             })
             .catch(error => { // gestion des erreur

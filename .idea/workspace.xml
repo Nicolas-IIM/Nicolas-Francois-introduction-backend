@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="980f2c29-b2d6-437b-a3cb-d23dbd411e37" name="Changes" comment="Refactor calcule_moyenne.php to add comments">
+    <list default="true" id="980f2c29-b2d6-437b-a3cb-d23dbd411e37" name="Changes" comment="Add comments to index.php and script.js">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculer_la_moyenne/calcule_moyenne.php" beforeDir="false" afterPath="$PROJECT_DIR$/calculer_la_moyenne/calcule_moyenne.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/iledefrance-mobilites/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/iledefrance-mobilites/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pokemon-api/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/pokemon-api/script.js" afterDir="false" />
     </list>
@@ -110,7 +112,7 @@
       <workItem from="1743848041804" duration="8754000" />
       <workItem from="1743930538584" duration="3881000" />
       <workItem from="1743943135114" duration="435000" />
-      <workItem from="1743944939958" duration="1162000" />
+      <workItem from="1743944939958" duration="2744000" />
     </task>
     <task id="LOCAL-00001" summary="Ajout de fichiers de configuration et d'un script pour le calcul de la moyenne">
       <option name="closed" value="true" />
@@ -168,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743947123393</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add comments to index.php and script.js">
+      <option name="closed" value="true" />
+      <created>1743947480614</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1743947480614</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +202,7 @@
     <MESSAGE value="Add iim_fr.md to document application structure and technologies used" />
     <MESSAGE value="Add initial project files for Pokemon api" />
     <MESSAGE value="Refactor calcule_moyenne.php to add comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor calcule_moyenne.php to add comments" />
+    <MESSAGE value="Add comments to index.php and script.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add comments to index.php and script.js" />
   </component>
 </project>

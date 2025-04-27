@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="980f2c29-b2d6-437b-a3cb-d23dbd411e37" name="Changes" comment="Add comments to index.php and script.js">
+    <list default="true" id="980f2c29-b2d6-437b-a3cb-d23dbd411e37" name="Changes" comment="Update calcule_moyenne.php for debug">
+      <change afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculer_la_moyenne/calcule_moyenne.php" beforeDir="false" afterPath="$PROJECT_DIR$/calculer_la_moyenne/calcule_moyenne.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iledefrance-mobilites/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/iledefrance-mobilites/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon-api/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/pokemon-api/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -41,6 +39,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Nicolas-frnc&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Nicolas-IIM/Nicolas-Francois-introduction-backend.git&quot;,
+    &quot;accountId&quot;: &quot;86c12eb6-94bf-4e12-b11d-208809ccb72b&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/iledefrance-mobilitesa/index.html" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -94,8 +104,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PS-243.26053.13" />
-        <option value="bundled-php-predefined-a98d8de5180a-1ec7b7818973-com.jetbrains.php.sharedIndexes-PS-243.26053.13" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PS-251.23774.466" />
+        <option value="bundled-php-predefined-a98d8de5180a-aaeaa8632555-com.jetbrains.php.sharedIndexes-PS-251.23774.466" />
       </set>
     </attachedChunks>
   </component>
@@ -112,7 +122,21 @@
       <workItem from="1743848041804" duration="8754000" />
       <workItem from="1743930538584" duration="3881000" />
       <workItem from="1743943135114" duration="435000" />
-      <workItem from="1743944939958" duration="2744000" />
+      <workItem from="1743944939958" duration="3430000" />
+      <workItem from="1744036412141" duration="5000" />
+      <workItem from="1744116577452" duration="91000" />
+      <workItem from="1744201525982" duration="888000" />
+      <workItem from="1744305433888" duration="23000" />
+      <workItem from="1744618010430" duration="1088000" />
+      <workItem from="1744897724179" duration="1000" />
+      <workItem from="1745229938015" duration="630000" />
+      <workItem from="1745232940288" duration="12000" />
+      <workItem from="1745232974468" duration="14000" />
+      <workItem from="1745236326736" duration="39000" />
+      <workItem from="1745392265150" duration="34000" />
+      <workItem from="1745481556375" duration="1382000" />
+      <workItem from="1745516343511" duration="2000" />
+      <workItem from="1745585539838" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="Ajout de fichiers de configuration et d'un script pour le calcul de la moyenne">
       <option name="closed" value="true" />
@@ -178,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743947480614</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update calcule_moyenne.php for debug">
+      <option name="closed" value="true" />
+      <created>1743949139090</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1743949139090</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,6 +235,7 @@
     <MESSAGE value="Add initial project files for Pokemon api" />
     <MESSAGE value="Refactor calcule_moyenne.php to add comments" />
     <MESSAGE value="Add comments to index.php and script.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add comments to index.php and script.js" />
+    <MESSAGE value="Update calcule_moyenne.php for debug" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update calcule_moyenne.php for debug" />
   </component>
 </project>
